@@ -1,0 +1,24 @@
+{
+  "name": "spoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSA-OCP-GER/spoc.git"
+  },
+  "author": "Christian Dennig / Microsoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSA-OCP-GER/spoc/issues"
+  },
+  "homepage": "https://github.com/CSA-OCP-GER/spoc#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
